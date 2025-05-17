@@ -1,0 +1,13 @@
+{
+  "array": [
+        "std::array"
+  ],
+  "string":[
+    "std::string",
+    "std::to_string",
+    "std::operator\"\"s"
+  ],
+  "set": [
+    "std::set"
+  ]
+}
