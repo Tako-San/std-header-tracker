@@ -1,13 +1,29 @@
 {
   "array": [
-        "std::array"
+    "std::array"
   ],
-  "string":[
+  "string": [
     "std::string",
     "std::to_string",
     "std::operator\"\"s"
   ],
   "set": [
     "std::set"
+  ],
+  "memory": [
+    "std::make_unique",
+    "std::unique_ptr",
+    "std::shared_ptr",
+    "std::weak_ptr"
+  ],
+  "iostream": [
+    "std::endl",
+    "std::cout"
+  ],
+  "cassert": [
+    "assert"
+  ],
+  "random": [
+    "random_device"
   ]
 }
